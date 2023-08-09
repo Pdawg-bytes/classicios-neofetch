@@ -9,4 +9,4 @@ You probably tried copying the script instead of installing the deb, so you're p
 *Or just install the deb!*
 
 # Screenshots
-![image](https://github.com/Pdawg-bytes/classicios-neofetch/assets/83825746/9f12adf0-f402-4a7e-9c1e-009d0ddbc380)
+![image](https://github.com/Pdawg-bytes/classicios-neofetch/assets/83825746/2065b663-d016-48c0-8c75-42939cde197b)
